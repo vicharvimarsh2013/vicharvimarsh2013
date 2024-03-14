@@ -10,6 +10,10 @@
 
 ###
 
+<p align="left">🧰 Tech Arsenal<br>Problem-solving expert, OOP enthusiast,<br>Languages: Proficient in Python, HTML, CSS, and SQL<br>Frameworks: Skilled in Pandas, Numpy, Matplotlib, Beautiful Soup, Pillow, Bootstrap, Tailwind CSS,<br>Tools: Expert in Kaggle, Roboflow, Jira, Figma, Canva, Illustrator<br>Platforms: Comfortable with Google Colab, GCP, Github, Vercel</p>
+
+###
+
 <h2 align="left">Technical Skills</h2>
 
 ###
@@ -28,10 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
